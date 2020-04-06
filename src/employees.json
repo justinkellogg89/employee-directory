@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "lastName": "Squarepants",
+    "firstName": "Spongebob",
+    "phone": "555-867-5309",
+    "email": "imready@temp.com"
+  },
+  {
+    "id": 2,
+    "lastName": "Krabs",
+    "firstName": "Eugene",
+    "phone": "555-867-5309",
+    "email": "money@temp.com"
+  },
+  {
+    "id": 3,
+    "lastName": "Tentacles",
+    "firstName": "Squidward",
+    "phone": "555-867-5309",
+    "email": "goawayspongebob@temp.com"
+  },
+  {
+    "id": 4,
+    "lastName": "Cheeks",
+    "firstName": "Sandy",
+    "phone": "555-867-5309",
+    "email": "scienceislife@temp.com"
+  },
+  {
+    "id": 5,
+    "lastName": "Plankton",
+    "firstName": "Sheldon",
+    "phone": "555-867-5309",
+    "email": "worlddomination@temp.com"
+  },
+  {
+    "id": 6,
+    "lastName": "Star",
+    "firstName": "Patrick",
+    "phone": "555-867-5309",
+    "email": "huh@temp.com"
+  }
+]
